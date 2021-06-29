@@ -1,10 +1,10 @@
-## Olá, eu sou José Victor Vieira! 🤝 : .
-![](https://visitor-badge.glitch.me/badge?page_id=CR10L02k)
+## Olá, eu sou José Victor Vieira! 🤝 : .   <a href="" target= "_blank"><img height="24em" src="https://visitor-badge.glitch.me/badge?page_id=CR10L02k" target="_blank"></a> 
  <div>
   <a href="https://github.com/CR10L02k">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
+ 
 <div style="display: inline_block">
   
   <br>
@@ -30,7 +30,7 @@
 <a href = "mailto:contato.josevictorvieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
    <a href="https://www.instagram.com/_victorvieira2k/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-    <a href="https://linktr.ee/josevictorsantos" target= "_blank"><img src="https://img.shields.io/badge/linktree-65da65?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
+    <a href="https://linktr.ee/josevictorsantos" target= "_blank"><img src="https://img.shields.io/badge/linktree-65da65?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> <br>
   <!--
 <a href="link" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
  
