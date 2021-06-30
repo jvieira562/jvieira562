@@ -1,8 +1,8 @@
 ## Olá, eu sou José Victor Vieira! 🤝 : .   <a href="" target= "_blank"><img height="24em" src="https://visitor-badge.glitch.me/badge?page_id=CR10L02k" target="_blank"></a> 
  <div>
   <a href="https://github.com/CR10L02k">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="171em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&layout=compact&langs_count=16&theme=midnight-purple"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
  
 <div style="display: inline_block">
