@@ -21,6 +21,8 @@
 
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
+ <img height="150em" align="right" alt="Obito" src="https://media.giphy.com/media/MfGOjkEtoyMgFcxCSz/giphy.gif" style="max-width:100%;">
+
 </div>
   
   ##
