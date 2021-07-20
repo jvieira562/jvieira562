@@ -41,12 +41,12 @@ Vieira
 <br>
 
 <p align = "center">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=nord&line_height=27">
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&layout=compact&langs_count=16&theme=nord&line_height=27">
+  <img height="170em" src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=nord&line_height=27">
+  <img height="170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&layout=compact&langs_count=16&theme=nord&line_height=27">
 </p>
 
 <p align = "center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=CR10L02k&show_icons=true&locale=en&layout=compact&theme=nord&line_height=0" />
+ <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=CR10L02k&show_icons=true&locale=en&layout=compact&theme=nord&line_height=0" />
 </p> 
 
 <p align = "center">
