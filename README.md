@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img width="100%" src="https://github.com/CR10L02k/imagens/blob/main/semCondi%C3%A7%C3%A3o.gif" style="max-width:100%;" />
+<img width="100%" src="" style="max-width:100%;" />
 
 <p align="center">
  
@@ -45,13 +45,20 @@ Vieira
 <br>
 
 <p align = "center">
-  <img height="170em" src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=radical&line_height=27">
-  <img height="170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&layout=compact&langs_count=16&theme=radical&line_height=27">
+ 
+  <img src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+ <img width="370px" src="https://github-readme-stats.vercel.app/api?username=CR10L02k&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+ <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=CR10L02k&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" /><br>
+ 
+ 
+ <!-- <img height="170em" src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800">
+  <img height="170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800">
 </p>
 
 <p align = "center">
- <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=CR10L02k&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0">
- <img height="155em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&theme=redical">
+<img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=CR10L02k&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787">
+
+<!-- <img height="145em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true">-->
 </p> 
 
 <h2 align="center">Redes sociais <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
