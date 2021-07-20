@@ -54,16 +54,16 @@ Vieira
 
 <p align="center">
 
-<a href="https://www.instagram.com/_victorvieira2k/"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_victorvieira2k/" target="_blank"/></a>
+<a href="https://www.instagram.com/_victorvieira2k/"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_victorvieira2k/"></a>
  
-<img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=contato.josevictorvieira@gmail.com"/>
+<a href="contato.josevictorvieira@gmail.com"><img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=contato.josevictorvieira@gmail.com">
  
-<img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevictorvieira/"/>
+<a href="https://www.linkedin.com/in/josevictorvieira/"><img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevictorvieira/">
  
-<img height="25em" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/josevictor2k"/>
+<a href="https://twitter.com/josevictor2k"><img height="25em" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/josevictor2k">
  
-<img height="25em" src="https://img.shields.io/badge/-YouTube-B2071D?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCSOoMdnrb57yHpES4Q4s5Fw/"/>
+<a href=""><img height="25em" src="https://img.shields.io/badge/-YouTube-B2071D?style=flat-square&logo=YouTube&logoColor=white&link=">
   
-<img height="25em" src="https://img.shields.io/badge/-Linktree-65da65?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/josevictorsantos"/>
+<a href="https://linktr.ee/josevictorsantos"><img height="25em" src="https://img.shields.io/badge/-Linktree-65da65?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/josevictorsantos">
 
 </p>
