@@ -45,13 +45,13 @@ Vieira
 <br>
 
 <p align = "center">
-  <img width="100%" src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=radical&line_height=27">
-  <img width="100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&layout=compact&langs_count=16&theme=radical&line_height=27">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=radical&line_height=27">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&layout=compact&langs_count=16&theme=radical&line_height=27">
 </p>
 
 <p align = "center">
- <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=CR10L02k&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0">
- <img height="155em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&theme=redical">
+ <img height="163em" src="https://github-readme-streak-stats.herokuapp.com/?user=CR10L02k&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0">
+ <img height="163em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&theme=redical">
 </p> 
 
 <h2 align="center">Redes sociais <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
