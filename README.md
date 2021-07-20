@@ -50,7 +50,7 @@ Vieira
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&theme=nord">
+ <img height="220em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&theme=nord">
 </p> 
 
 <h2 align="center">Redes sociais <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
