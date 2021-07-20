@@ -52,18 +52,8 @@ Vieira
 
 <h2 align="center">Redes sociais <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.instagram.com/_victorvieira2k/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_victorvieira2k/"></a>
- 
-<a <a href="contato.josevictorvieira@gmail.com"><img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=contato.josevictorvieira@gmail.com"></a>
- 
- <a href="https://www.linkedin.com/in/josevictorvieira/"><img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevictorvieira/"></a>
- 
- <a href="https://twitter.com/josevictor2k"><img height="25em" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/josevictor2k"></a>
- 
- <a href=""><img height="25em" src="https://img.shields.io/badge/-YouTube-B2071D?style=flat-square&logo=YouTube&logoColor=white&link="></a>
-  
- <a href="https://linktr.ee/josevictorsantos"><img height="25em" src="https://img.shields.io/badge/-Linktree-65da65?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/josevictorsantos"></a>
+<a href="https://www.instagram.com/_victorvieira2k/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_victorvieira2k/"></a>  <a href="contato.josevictorvieira@gmail.com"><img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=contato.josevictorvieira@gmail.com"></a>  <a href="https://www.linkedin.com/in/josevictorvieira/"><img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevictorvieira/"></a>  <a href="https://twitter.com/josevictor2k"><img height="25em" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/josevictor2k"></a>  <a href=""><img height="25em" src="https://img.shields.io/badge/-YouTube-B2071D?style=flat-square&logo=YouTube&logoColor=white&link="></a>  <a href="https://linktr.ee/josevictorsantos"><img height="25em" src="https://img.shields.io/badge/-Linktree-65da65?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/josevictorsantos"></a>
 
-</p>
+</div>
