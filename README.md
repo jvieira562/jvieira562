@@ -31,6 +31,10 @@ Vieira
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+  <img align="center" alt="windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+ 
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 </p>
 
@@ -41,8 +45,8 @@ Vieira
 <br>
 
 <p align = "center">
-  <img height="170em" src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=radical&line_height=27">
-  <img height="170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&layout=compact&langs_count=16&theme=radical&line_height=27">
+  <img width="100%" src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=radical&line_height=27">
+  <img width="100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&layout=compact&langs_count=16&theme=radical&line_height=27">
 </p>
 
 <p align = "center">
@@ -54,7 +58,7 @@ Vieira
 
 <div align="center">
 
-<a href="https://www.instagram.com/_victorvieira2k/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_victorvieira2k/" target="_blank"></a>
+<a href="https://www.instagram.com/_victorvieira2k/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_victorvieira2k/"></a>
 <a href="contato.josevictorvieira@gmail.com"><img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=contato.josevictorvieira@gmail.com"></a>
 <a href="https://www.linkedin.com/in/josevictorvieira/"><img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevictorvieira/"></a>
 <a href="https://twitter.com/josevictor2k"><img height="25em" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/josevictor2k"></a>
