@@ -1,11 +1,11 @@
 <p align="center">
  
 </p align="center">
-<img width="240%" src="https://github.com/CR10L02k/imagens/blob/main/4_Progresso4.gif" />
+<img width="100%" src="https://github.com/CR10L02k/imagens/blob/main/4_Progresso4.gif" />
 
 <p align="center">
  
- <img src="https://visitor-badge.glitch.me/badge?page_id=CR10L02k"/> 
+ <img height="25em" src="https://visitor-badge.glitch.me/badge?page_id=CR10L02k"/> 
 
 </p>
 
@@ -13,7 +13,8 @@
 Vieira
 </p>  -->
 
-<h2 align="center">Tecnologias <img src="https://github.com/CR10L02k/imagens/blob/main/fim-de-semana.gif" width="50"></h2>
+<h2 align="center">Tecnologias</h2>
+<p align="center"><img width="15%" src="https://github.com/CR10L02k/imagens/blob/main/fim-de-semana.gif" width="50"></p>
 
 <p align="center">
  
@@ -34,9 +35,8 @@ Vieira
 </p>
 
 
-<h2 align="center">
-  Minhas estatistícas<img src="https://github.com/CR10L02k/imagens/blob/main/start.gif" width="50">
-</h2>
+<h2 align="center">Minhas estatistícas</h2>
+<p align="center"><img width="15%" src="https://github.com/CR10L02k/imagens/blob/main/start.gif" width="50"></p>
  
 <br>
 
@@ -57,10 +57,16 @@ Vieira
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/-José Victor Vieira-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=mailto:https://www.instagram.com/_victorvieira2k/"/>
-<img src="https://img.shields.io/badge/-José Victor Vieira-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.josevictorvieira@gmail.com"/>
-<img src="https://img.shields.io/badge/-José Victor Vieira-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevictorvieira/"/>
-<img src="https://img.shields.io/badge/-josevictor2k-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/josevictor2k"/>
- <img src="https://img.shields.io/badge/-vieira-B2071D?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCSOoMdnrb57yHpES4Q4s5Fw/"/>
+<img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=mailto:https://www.instagram.com/_victorvieira2k/"/>
+ 
+<img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.josevictorvieira@gmail.com"/>
+ 
+<img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevictorvieira/"/>
+ 
+<img height="25em" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/josevictor2k"/>
+ 
+<img height="25em" src="https://img.shields.io/badge/-YouTube-B2071D?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCSOoMdnrb57yHpES4Q4s5Fw/"/>
+  
+<img height="25em" src="https://img.shields.io/badge/-Linktree-65da65?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/josevictorsantos"/>
 
 </p>
