@@ -54,7 +54,7 @@ Vieira
 
 <p align="center">
 
-<img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_victorvieira2k/"/>
+<a href="https://www.instagram.com/_victorvieira2k/"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_victorvieira2k/" target="_blank"/></a>
  
 <img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=contato.josevictorvieira@gmail.com"/>
  
