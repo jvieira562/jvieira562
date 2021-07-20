@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img width="100%" src="https://github.com/CR10L02k/imagens/blob/main/4_Progresso4.gif" />
+<img width="100%" src="https://github.com/CR10L02k/imagens/blob/main/semCondi%C3%A7%C3%A3o.gif" style="max-width:100%;" />
 
 <p align="center">
  
