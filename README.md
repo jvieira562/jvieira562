@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img width="100%" src="https://github.com/CR10L02k/imagens/blob/main/MyPost.png" style="max-width:100%;" />
+<img width="100%" src="https://github.com/CR10L02k/imagens/blob/main/Ol%C3%A1%2C%20eu%20sou%20Jos%C3%A9%20Victor%20Vieira!%20%F0%9F%A4%98.gif" style="max-width:100%;" />
 
 <p align="center">
  
