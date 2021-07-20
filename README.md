@@ -40,7 +40,7 @@ Vieira
 
 
 <h2 align="center">Minhas estatistícas</h2>
-<p align="center"><img width="15%" src="https://github.com/CR10L02k/imagens/blob/main/start.gif" width="50"></p>
+<!--<p align="center"><img width="15%" src="https://github.com/CR10L02k/imagens/blob/main/start.gif" width="50"></p>-->
  
 <br>
 
