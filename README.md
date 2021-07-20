@@ -18,23 +18,23 @@ Vieira
 
 <p align="center">
  
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/java/java-original.svg">
  
- <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="JavaScript" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/javascript/javascript-plain.svg">
   
-  <img align="center" alt="Springboot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="Springboot" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/spring/spring-original.svg">
 
- <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+ <img align="center" alt="mysql" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/mysql/mysql-original.svg">
 
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/git/git-original.svg">
 
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="html" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-original.svg">
 
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-original.svg">
  
-  <img align="center" alt="windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img align="center" alt="windows" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/windows8/windows8-original.svg">
  
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/linux/linux-original.svg">
 
 </p>
 
