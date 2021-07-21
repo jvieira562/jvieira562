@@ -1,7 +1,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/CR10L02k/imagens/blob/main/banner.gif" />
+<img src="https://github.com/CR10L02k/imagens/blob/main/Ol%C3%A1%2C%20eu%20sou%20Jos%C3%A9%20Victor%20Vieira.gif" />
 
 <p align="center">
  
@@ -20,17 +20,17 @@ Gosto explorar novas tecnologias e aproveitá-las para resolver problemas da vid
 <h2 align="center">Linguagens e ferramentas <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30"></h2>
 
 <p align="center">
- <img height="26em" src="https://github.com/CR10L02k/imagens/blob/main/icons/java/java-original.svg"/>
- <img height="25em" src="https://github.com/CR10L02k/imagens/blob/main/icons/spring/spring-original.svg"/>
- <img height="25em" src="https://github.com/CR10L02k/imagens/blob/main/icons/javascript/javascript-plain.svg"/>
- <img height="25em" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-plain.svg"/>
- <img height="25em" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-plain.svg"/>
- <img height="25em" src="https://github.com/CR10L02k/imagens/blob/main/icons/mysql/mysql-plain.svg"/>
- <img height="25em" src="https://github.com/CR10L02k/imagens/blob/main/icons/git/git-plain.svg"/>
- <img height="25em" src="https://github.com/CR10L02k/imagens/blob/main/icons/github/github-original.svg"/>
- <img height="25em" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
- <img height="25em" src="https://github.com/CR10L02k/imagens/blob/main/icons/windows8/windows8-original.svg"/>
- <img height="25em" src="https://github.com/CR10L02k/imagens/blob/main/icons/linux/linux-original.svg"/>
+ <img height="36em" src="https://github.com/CR10L02k/imagens/blob/main/icons/java/java-original.svg"/>
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/spring/spring-original.svg"/>
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/javascript/javascript-plain.svg"/>
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-plain.svg"/>
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-plain.svg"/>
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/mysql/mysql-plain.svg"/>
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/git/git-plain.svg"/>
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/github/github-original.svg"/>
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/windows8/windows8-original.svg"/>
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/linux/linux-original.svg"/>
 
 </p>
 
