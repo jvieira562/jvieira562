@@ -14,7 +14,7 @@
 
 <p align="center">
  
-Gosto explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✍. Atualmente trabalho com Desenvolvimento Java ☕. E aperfeiçoando meus conhecimentos com Spring Boot, Spring Security, Spring Data JPA, Spring JDBC 🤓.
+Gosto explorar novas tecnologias e aproveitá-las para resolver problemas do dia dia✍. Atualmente trabalho com Desenvolvimento Java ☕. Estou aperfeiçoando meus conhecimentos no Spring Boot, Spring Security, Spring Data JPA, Spring JDBC 🤓.
 </p>  
 
 <h2 align="center">Linguagens e ferramentas <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30"></h2>
