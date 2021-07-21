@@ -17,7 +17,7 @@
 Gosto explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✍. Atualmente trabalho com Desenvolvimento Java ☕. E aperfeiçoando meus conhecimentos com Spring Boot, Spring Security, Spring Data JPA, Spring JDBC 🤓.
 </p>  
 
-<h2 align="center">Linguagens e ferramentas <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Linguagens e ferramentas <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30"></h2>
 
 <p align="center">
  <img height="26em" src="https://github.com/CR10L02k/imagens/blob/main/icons/java/java-original.svg"/>
@@ -56,7 +56,7 @@ Gosto explorar novas tecnologias e aproveitá-las para resolver problemas da vid
  <img height="120em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=JoseVictorVieira&layout=compact&hide_title=true&theme=dark">
 </p> 
 
-<h2 align="center">Conecte-me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center">Conecte-me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
 
 <p align="center">
 <a href="https://www.instagram.com/_victorvieira2k/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Instagram-af4c4d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_victorvieira2k/"></a>
