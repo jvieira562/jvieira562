@@ -54,7 +54,7 @@ Gosto explorar novas tecnologias e aproveitá-las para resolver problemas da vid
 </p> 
 
 <p align = "center">
- <img height="395em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&theme=xcode">
+ <img height="385em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&theme=xcode">
 </p> 
 
 
