@@ -53,8 +53,8 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
 </p>
 
 <p align = "center">
- <img height="220em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&theme=dark">
- <img height="120em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=JoseVictorVieira&layout=compact&hide_title=true&theme=dark">
+ <img height="125em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&layout=compact&theme=dark">
+ <img height="110em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=JoseVictorVieira&layout=compact&hide_title=true&theme=dark">
 </p> 
 
 <h2 align="center">Conecte-me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
