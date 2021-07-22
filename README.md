@@ -30,6 +30,7 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
  <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/git/git-plain.svg"/>
  <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/github/github.svg"/>
  <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/vscode/vscode-original.svg"/>
  <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/windows8/windows8-original.svg"/>
  <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/linux/linux-original.svg"/>
 
