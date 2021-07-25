@@ -8,7 +8,7 @@
  <img src="https://badges.pufler.dev/visits/CR10L02k/CR10L02k"/> 
  <img src="https://komarev.com/ghpvc/?username=CR10L02k&color=brightgreen"/> 
  <img src="https://badges.pufler.dev/years/CR10L02k"/>
- <img src="https://badges.pufler.dev/repos/CR10L02k"/>
+ <img src="https://badges.pufler.dev/repos/CR10L02k "/>
  <img src="https://badges.pufler.dev/commits/monthly/CR10L02k" />
 
 </p>
