@@ -21,7 +21,7 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
 <img src="https://github.com/CR10L02k/imagens/blob/main/rock-gif.gif" width="200">
 </p>
 
-<h2 align="center">Linguagens e ferramentas <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30"></h2>
+<h2 align="center">Linguagens e ferramentas</h2>
 
 <p align="center">
  <img height="36em" src="https://github.com/CR10L02k/imagens/blob/main/icons/java/java-original.svg"/>
