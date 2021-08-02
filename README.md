@@ -12,11 +12,14 @@
  <img src="https://badges.pufler.dev/commits/monthly/CR10L02k" />
 
 </p>
-
 <p align="center">
  
 Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do dia dia ✍. Atualmente trabalho com desenvolvimento Java ☕. Estou aperfeiçoando meus conhecimentos no Spring Boot, Spring Security, Spring Data JPA, Spring JDBC 🤓.
 </p>  
+
+<p align="center">
+<img src="https://github.com/CR10L02k/imagens/blob/main/rock-gif.gif" width="200">
+</p>
 
 <h2 align="center">Linguagens e ferramentas <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30"></h2>
 
