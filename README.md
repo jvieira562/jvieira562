@@ -46,16 +46,16 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
  
 <br>
 <p align = "center">
- <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&theme=redical">
+ <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&theme=xcode">
 </p> 
 
 <p align = "center">
- <img height="160em"  src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=radical">
- <img height="160em"  src="https://github-readme-streak-stats.herokuapp.com/?user=CR10L02k&show_icons=true&locale=en&layout=compact&theme=radical" />
+ <img height="160em"  src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=black">
+ <img height="160em"  src="https://github-readme-streak-stats.herokuapp.com/?user=CR10L02k&show_icons=true&locale=en&layout=compact&theme=black" />
 </p>
 <p align = "center">
- <img height="170em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=JoseVictorVieira&layout=compact&hide_title=true&theme=radical" >
- <img height="230em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&theme=radical">
+ <img height="170em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=JoseVictorVieira&layout=compact&hide_title=true&theme=black" >
+ <img height="230em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&theme=black">
 </p> 
 
 <h2 align="center">Conecte-me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
