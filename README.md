@@ -44,7 +44,7 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
  -->
 <br>
 <p align = "center">
- <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&hide_title=true&theme=xcode&bg_color=010101&color=ffffff&line=ffffff&point=00000000&area=true&hide_border=true">
+ <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&hide_title=true&theme=xcode&bg_color=010101&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true">
 </p> 
 
 <p align = "center">
@@ -65,4 +65,3 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
 <a href="https://twitter.com/josevictor2k"><img height="25em" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/josevictor2k"></a>
 <a href=""><img height="25em" src="https://img.shields.io/badge/-YouTube-B2071D?style=flat-square&logo=YouTube&logoColor=white&link="></a>
 <a href="https://linktr.ee/josevictorsantos"><img height="25em" src="https://img.shields.io/badge/-Linktree-65da65?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/josevictorsantos"></a></p>
-
