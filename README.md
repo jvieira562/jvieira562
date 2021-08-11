@@ -44,16 +44,16 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
  -->
 <br>
 <p align = "center">
- <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&theme=dracula">
+ <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&hide_title=true&theme=xcode&bg_color=010101&color=ffffff&line=ffffff&point=00000000&area=true&hide_border=true">
 </p> 
 
 <p align = "center">
- <img height="160em"  src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&show_icons=true&theme=dracula">
- <img height="160em"  src="https://github-readme-streak-stats.herokuapp.com/?user=CR10L02k&show_icons=true&locale=en&layout=compact&theme=dracula" />
+ <img height="147em"  src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&hide_title=true&show_icons=true&hide_border=true&count_private=true&bg_color=010101&title_color=ffffff&text_color=878787&icon_color=ffffff&cache_seconds=1800">
+ <img height="147em"  src="https://github-readme-streak-stats.herokuapp.com/?user=CR10L02k&background=010101&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 </p>
 <p align = "center">
- <img height="195em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=JoseVictorVieira&layout=compact&hide_title=true&theme=dracula" >
- <img height="240em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&theme=dracula">
+ <img height="185em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=JoseVictorVieira&layout=compact&hide_title=true&hide_border=true&count_private=true&bg_color=010101&title_color=ffffff&text_color=878787&icon_color=ffffff&cache_seconds=1800" >
+ <img height="230em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&hide_title=true&custom_title=Linguagens+Mais+Usadas&hide_border=true&count_private=true&bg_color=010101&title_color=ffffff&text_color=878787&icon_color=ffffff&cache_seconds=1800">
 </p> 
 
 <h2 align="center">Conecte-me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
