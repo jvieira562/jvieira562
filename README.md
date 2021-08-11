@@ -44,7 +44,7 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
  -->
 <br>
 <p align = "center">
- <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&hide_title=true&theme=xcode&bg_color=010101&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true">
+ <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&hide_title=true&theme=xcode&bg_color=010101&color=ffffff&line=ffffff&point=00000000&area=true&hide_border=true">
 </p> 
 
 <p align = "center">
