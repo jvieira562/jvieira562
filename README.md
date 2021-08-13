@@ -12,6 +12,7 @@
  <img src="https://badges.pufler.dev/commits/monthly/CR10L02k/"/>
 
 </p>
+
 <p align="center">
  
 Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do dia dia ✍. Atualmente trabalho com desenvolvimento Java ☕. Estou aperfeiçoando meus conhecimentos no Spring Boot, Spring Security, Spring Data JPA, Spring JDBC 🤓.
