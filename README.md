@@ -18,9 +18,9 @@
 Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do dia dia ✍. Atualmente trabalho com desenvolvimento Java ☕. Estou aperfeiçoando meus conhecimentos no Spring Boot, Spring Security, Spring Data JPA, Spring JDBC 🤓.
 </p>  
 
-<!--<p align="center">
+<p align="center">
 <img src="https://github.com/CR10L02k/imagens/blob/main/rock-gif.gif" width="200">
-</p> -->
+</p>
 
 <h2 align="center">Linguagens e ferramentas</h2>
 
@@ -43,9 +43,9 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
   Estatisticas do Github
 </h2>
  -->
-<p align = "center">
+<!--<p align = "center">
  <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&hide_title=true&theme=xcode&bg_color=010101&color=ffffff&line=ffffff&point=00000000&area=true&hide_border=true">
-</p> 
+</p> -->
 
 <p align = "center">
 <img height="150em"  src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&hide_title=true&show_icons=true&hide_border=true&count_private=true&bg_color=010101&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800">
