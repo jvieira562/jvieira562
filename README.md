@@ -15,7 +15,7 @@
 
 <p align="center">
  
-Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do dia dia ✍. Atualmente trabalho com desenvolvimento Java ☕. Estou aperfeiçoando meus conhecimentos no Spring Boot, Spring Security, Spring Data JPA, Spring JDBC 🤓.
+Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do dia dia ✍. Atualmente estudo Java e curso Engenharia de Software ☕. Estou aperfeiçoando meus conhecimentos no Spring Framework 🤓.
 </p>  
 
 <!--<p align="center">
