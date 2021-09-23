@@ -45,7 +45,7 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
 
 <!--<p align = "center">
  <img height="290em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&hide_title=true&theme=xcode&bg_color=010101&color=ffffff&line=ffffff&point=00000000&area=true&hide_border=true">
-</p> -->
+</p>  -->
 
 <p align = "center">
 <img height="150em"  src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&hide_title=true&show_icons=true&hide_border=true&count_private=true&bg_color=010101&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800">
