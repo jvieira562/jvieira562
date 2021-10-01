@@ -41,7 +41,6 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
 <h2 align="center">
   Estatisticas do Github
 </h2>
-
 <!--<p align = "center">
  <img height="290em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&hide_title=true&theme=xcode&bg_color=010101&color=ffffff&line=ffffff&point=00000000&area=true&hide_border=true">
 </p>  -->
