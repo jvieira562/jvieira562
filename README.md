@@ -61,5 +61,5 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
 <a href="https://linktr.ee/josevictorsantos"><img height="25em" src="https://img.shields.io/badge/-Linktree-65da65?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/josevictorsantos"></a></p>
 
 <!--
-  ![Snake animation](https://github.com/CR10L02k/CR10L02k/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/CR10L02k/CR10L02k/blob/output/github-contribution-grid-snake.svg)
 -->
