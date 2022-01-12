@@ -20,7 +20,7 @@ Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do 
 
 <!--<p align="center">
 <img src="https://github.com/CR10L02k/imagens/blob/main/rock-gif.gif" width="200">
-</p> -->
+</p> --> 
 
 <h2 align="center">Linguagens e ferramentas</h2>
 
