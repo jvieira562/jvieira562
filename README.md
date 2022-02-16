@@ -15,7 +15,7 @@
 
 <p align="center">
  
-Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do dia dia ✍. Atualmente estudo Java e curso Engenharia de Software ☕. Estou aperfeiçoando meus conhecimentos no Spring Framework 🤓.
+Gosto de explorar novas tecnologias e realizar ideas de projetos que surgem no dia dia ✍. Atualmente estudo Java e curso Analise e Desenvolvimento de Sistemas no SENAC ☕. Estou aperfeiçoando meus conhecimentos nos projetos do Spring Framework e tenho interesse em aprender C# com .NET🤓.
 </p>  
 
 <p align="center">
