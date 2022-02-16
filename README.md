@@ -15,7 +15,7 @@
 
 <p align="center">
  
-Gosto de explorar novas tecnologias e realizar ideas de projetos que surgem no dia dia ✍. Atualmente estudo Java e curso Analise e Desenvolvimento de Sistemas no SENAC ☕. Estou aperfeiçoando meus conhecimentos nos projetos do Spring Framework e tenho interesse em aprender C# com .NET🤓.
+Gosto de explorar novas tecnologias e codificar ideas de projetos que surgem no dia dia ✍. Atualmente estudo Java e curso Analise e Desenvolvimento de Sistemas no SENAC ☕. Estou aperfeiçoando meus conhecimentos em Java com ênfase nos projetos do Spring Framework e tenho interesse em aprender C# com .NET🤓.
 </p>  
 
 <p align="center">
@@ -28,7 +28,7 @@ Gosto de explorar novas tecnologias e realizar ideas de projetos que surgem no d
  <img height="36em" src="https://github.com/CR10L02k/imagens/blob/main/icons/java/java-original.svg"/>
  <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/python/python-original.svg"/>
  <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/spring/spring-original.svg"/>
- <!--<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/javascript/javascript-plain.svg"/>-->
+ <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/javascript/javascript-plain.svg"/>
  <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-plain.svg"/>
  <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-plain.svg"/>
  <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/mysql/mysql-plain.svg"/>
