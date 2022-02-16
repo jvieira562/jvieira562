@@ -18,9 +18,9 @@
 Gosto de explorar novas tecnologias e aproveitá-las para resolver problemas do dia dia ✍. Atualmente estudo Java e curso Engenharia de Software ☕. Estou aperfeiçoando meus conhecimentos no Spring Framework 🤓.
 </p>  
 
-<!--<p align="center">
+<p align="center">
 <img src="https://github.com/CR10L02k/imagens/blob/main/rock-gif.gif" width="200">
-</p> --> 
+</p> 
 
 <h2 align="center">Linguagens e ferramentas</h2>
 
