@@ -15,7 +15,7 @@
 
 <p align="center">
  
-Gosto de explorar novas tecnologias e codificar ideas de projetos que surgem no dia dia ✍. Atualmente estudo Java e curso Analise e Desenvolvimento de Sistemas no SENAC ☕. Estou aperfeiçoando meus conhecimentos em Java com ênfase nos projetos do Spring Framework e tenho interesse em aprender C# com .NET🤓.
+Gosto de explorar novas tecnologias e codificar ideas de projetos que surgem no dia dia ✍. Atualmente estudo Java e curso Analise e Desenvolvimento de Sistemas no SENAC ☕. Estou aperfeiçoando meus conhecimentos em Java com ênfase nos projetos do Spring Framework e tenho interesse em aprender .NET🤓.
 </p>  
 
 <p align="center">
