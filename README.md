@@ -25,32 +25,32 @@ Gosto de explorar novas tecnologias e codificar ideas de projetos que surgem no 
 <h2 align="center">Linguagens e ferramentas</h2>
 
 <p align="center">
- <img height="36em" src="https://github.com/CR10L02k/imagens/blob/main/icons/java/java-original.svg"/>
- <!--<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/python/python-original.svg"/> -->
- <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/spring/spring-original.svg"/>
- <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/javascript/javascript-plain.svg"/>
- <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-plain.svg"/>
- <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-plain.svg"/>
- <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/mysql/mysql-plain.svg"/>
- <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/git/git-plain.svg"/>
- <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/github/github.svg"/>
- <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
- <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/vscode/vscode-original.svg"/>
- <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/windows8/windows8-original.svg"/>
- <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/linux/linux-original.svg"/>
+ <img height="36em" src="https://github.com/jvieira562/imagens/blob/main/icons/java/java-original.svg"/>
+ <!--<img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/python/python-original.svg"/> -->
+ <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/spring/spring-original.svg"/>
+ <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/javascript/javascript-plain.svg"/>
+ <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/html5/html5-plain.svg"/>
+ <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/css3/css3-plain.svg"/>
+ <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/mysql/mysql-plain.svg"/>
+ <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/git/git-plain.svg"/>
+ <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/github/github.svg"/>
+ <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/eclipse/eclipse.svg"/>
+ <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/vscode/vscode-original.svg"/>
+ <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/windows8/windows8-original.svg"/>
+ <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/linux/linux-original.svg"/>
 </p>
 <h2 align="center">
   Estatisticas do Github
 </h2>
 <!--<p align = "center">
- <img height="290em" src="https://activity-graph.herokuapp.com/graph?username=CR10L02k&hide_title=true&theme=xcode&bg_color=010101&color=ffffff&line=ffffff&point=00000000&area=true&hide_border=true">
+ <img height="290em" src="https://activity-graph.herokuapp.com/graph?username=jvieira562&hide_title=true&theme=xcode&bg_color=010101&color=ffffff&line=ffffff&point=00000000&area=true&hide_border=true">
 </p>   -->
 
 <p align = "center">
-<img height="145em"  src = "https://github-readme-stats.vercel.app/api?username=CR10L02k&hide_title=true&show_icons=true&hide_border=true&count_private=true&bg_color=010101&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800">
-<img height="145em"  src="https://github-readme-streak-stats.herokuapp.com/?user=CR10L02k&background=010101&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff">
+<img height="145em"  src = "https://github-readme-stats.vercel.app/api?username=jvieira562&hide_title=true&show_icons=true&hide_border=true&count_private=true&bg_color=010101&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800">
+<img height="145em"  src="https://github-readme-streak-stats.herokuapp.com/?user=jvieira562&background=010101&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff">
 <img height="275em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=JoseVictorVieira&layout=compact&hide_title=true&hide_border=true&count_private=true&bg_color=010101&title_color=fffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800">
- <img height="275em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CR10L02k&hide_title=true&hide_border=true&count_private=true&bg_color=010101&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800">
+ <img height="275em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jvieira562&hide_title=true&hide_border=true&count_private=true&bg_color=010101&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800">
 </p> 
 
 <h2 align="center">Conecte-me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
