@@ -5,11 +5,11 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/jvieira562/jvieira562"/> 
  <img src="https://komarev.com/ghpvc/?username=jvieira562&color=brightgreen"/> 
+ <!--<img src="https://badges.pufler.dev/visits/jvieira562/jvieira562"/> 
  <img src="https://badges.pufler.dev/years/jvieira562"/>
  <img src="https://badges.pufler.dev/repos/jvieira562/">
- <img src="https://badges.pufler.dev/commits/monthly/jvieira562/"/>
+ <img src="https://badges.pufler.dev/commits/monthly/jvieira562/"/> -->
 
 </p>
 
