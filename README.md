@@ -42,10 +42,6 @@ Gosto de explorar novas tecnologias e codificar ideas de projetos que surgem no 
 <h2 align="center">
   Estatisticas do Github
 </h2>
-<!--<p align = "center">
- <img height="290em" src="https://activity-graph.herokuapp.com/graph?username=jvieira562&hide_title=true&theme=xcode&bg_color=010101&color=ffffff&line=ffffff&point=00000000&area=true&hide_border=true">
-</p>   -->
-
 <p align = "center">
 <img height="145em"  src = "https://github-readme-stats.vercel.app/api?username=jvieira562&hide_title=true&show_icons=true&hide_border=true&count_private=true&bg_color=010101&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=1800">
 <img height="145em"  src="https://github-readme-streak-stats.herokuapp.com/?user=jvieira562&background=010101&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff">
