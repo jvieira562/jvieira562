@@ -38,10 +38,9 @@
 <h2 align="center">Conecte-me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
 
 <p align="center">
-<a href="contato.josevictorvieira@gmail.com"><img heigth="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=contato.josevictorvieira@gmail.com"></a>
+<a href="contato.josevictorvieira@gmail.com"><img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=contato.josevictorvieira@gmail.com"></a>
 <a href="https://www.linkedin.com/in/josevictorvieira/"><img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevictorvieira/"></a>
-<a href="https://linktr.ee/josevictorsantos"><img height="25em" src="https://img.shields.io/badge/-Linktree-65da65?style=flat-square&logo=linktree&logoColor=white&link=https://linktr.ee/josevictorsantos"></a></p>
 
-<!--
- ![Snake animation](https://github.com/CR10L02k/CR10L02k/blob/output/github-contribution-grid-snake.svg)
--->
+
+ ![Snake animation](https://github.com/jvieira562/jvieira562/blob/output/github-contribution-grid-snake.svg)
+
