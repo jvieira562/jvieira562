@@ -5,11 +5,11 @@
 <p align="center"> 
 	Gosto de explorar novas tecnologias e codificar ideas de projetos que surgem no dia dia ✍. Atualmente estudo C# e curso Analise e Desenvolvimento de Sistemas no 		SENAC ☕.
 </p>  
-
+<!--
 <p align="center">
 <img src="https://github.com/CR10L02k/imagens/blob/main/rock-gif.gif" width="200">
 </p> 
-
+-->
 <h2 align="center">Linguagens e ferramentas</h2>
 
 <p align="center">
