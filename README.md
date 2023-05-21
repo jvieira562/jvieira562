@@ -23,6 +23,7 @@
 	 <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
  <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/mysql/mysql-plain.svg"/>
  <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/git/git-plain.svg"/>
+	<img height="35em" src="https://github.com/jvieira562/imagens/blob/main/icons/azure/azure-devops-svgrepo-com.svg"/>
  <img height="35em" src="https://github.com/jvieira562/imagens/blob/main/github/github.svg"/>
 </p>
 <h2 align="center">
