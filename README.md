@@ -28,6 +28,7 @@
 <div align="left">
 	<a href="contato.josevictorvieira@gmail.com" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Gmail-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=contato.josevictorvieira@gmail.com"></a>
 	<a href="https://www.linkedin.com/in/josevictorvieira/" target="_blank"><img height="25em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josevictorvieira/"></a>
+	<a href="https://wakatime.com/@e68f8074-e300-4f87-b3a1-0aab91fd9819"><img height="25em" src="https://wakatime.com/badge/user/e68f8074-e300-4f87-b3a1-0aab91fd9819.svg" alt="Total time coded since Jul 20 2021" /></a>
 </div>
  <!--![Snake animation](https://github.com/jvieira562/jvieira562/blob/output/github-contribution-grid-snake.svg)-->
 
